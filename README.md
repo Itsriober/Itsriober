@@ -67,10 +67,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jstnharmon&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsriober&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jstnharmo&ntheme=tokyonight" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsriober&ntheme=tokyonight" alt="Streak stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstnharmon&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsriober&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
