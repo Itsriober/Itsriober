@@ -1,45 +1,76 @@
-# Justine Harmon
+<!-- GitHub Profile README - Dark & Sleek Theme -->
 
-Full-stack developer. I build things from *"what if we..."* to *"okay, it's live."*
-
-I work across the whole stack — code, design, UX, cloud, the occasional ML rabbit hole — because handing off problems between layers is how bugs get blamed on someone else.
-
-Design is not a phase I skip. If it looks broken, it probably is.
-
-I've shipped real products into real environments, which means I also know what happens after you hit deploy. (Spoiler: something always needs fixing.)
-
-I care about clean code, honest docs, and software that people can actually use without a training session. If it's not maintainable, it's not finished — it's just resting.
-
-Currently exploring AI/ML where it earns its place, not just where it sounds impressive in a pitch deck.
+<h1 align="center">Hey there 👋, I'm Justine Harmon</h1>
+<p align="center">
+  🚀 Tech Educator • 💻 Fullstack Developer • 🎨 Graphic Designer <br>
+  <em>"We believe every child can learn how to code."</em>
+</p>
 
 ---
 
-## What I work with
+### 🧑‍💻 About Me
 
-**Languages & Frameworks** — JavaScript, PHP, Laravel, HTML/CSS  
-**Data** — MySQL  
-**Infrastructure** — Git, cPanel, AWS, cloud storage  
-**Design** — Canva, Adobe Creative Suite  
-**Other** — Arduino, Twilio
-
----
-
-## What I'm building
-
-**[Harmo Stays](https://harmostays.com)** — A coastal hospitality platform. Vacation rentals, tours, airport pickups. I co-founded it, built it, and maintain it.  
-**SmartBrains Kenya** — Tech education. Bootcamps, coding contests, robotics. Teaching people to build things, not just consume them.
+- 💡 Passionate about **tech education**, especially for young learners.
+- 🧠 Skilled in **JavaScript**, **PHP**, **Laravel**, **HTML**, **CSS**.
+- 🧰 Experienced with **MySQL**, **Twilio**, **Git**, **cPanel**, **Cloud Storage (AWS, GDrive)**.
+- ✨ Pro Graphic Designer using **Canva** + **Adobe Creative Suite**.
+- 🎓 Coding Tutor and Graphic Designer at **SmartBrains Kenya** — organizing **bootcamps**, **coding contests**, and **tech days**.
+- 🏝️ Co-founder, Developer, and Lead Designer at **Harmo Stays** — a coastal hospitality platform offering **vacation rentals**, **tours**, **airport pickups**, and more.
+- 🌍 Collaborating remotely from Nairobi with our team in Diani to build seamless digital experiences for travelers.
 
 ---
 
-## GitHub activity
+### 🔧 Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=itsriober&show_icons=true&theme=default&hide_border=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsriober&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-*"Works on the whole product" is the polite way to say I have opinions about your colour palette and your database schema.*
+### 🚀 Current Focus
+
+- Enhancing customer experience through tech & design  
+- Teaching robotics and real-world coding with Arduino & JS  
+- Building responsive websites and dynamic platforms from scratch  
+- Creating engaging posters and UI content for tech-themed events  
+- Developing and maintaining Harmo Stays' digital platforms to provide seamless travel experiences
 
 ---
 
-[jstnharmon02@gmail.com](mailto:jstnharmon02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yourprofile) · [harmostays.com](https://harmostays.com)
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="jstnharmon02@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://harmostays.com"><img src="https://img.shields.io/badge/-harmostays.com-111?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+---
+
+### 🎨 Fun Facts
+
+- 🧠 I teach kids how to code like pros  
+- ⚡ I'm always creating something — posters, platforms, or lesson plans  
+- 🎯 Favorite tools: **CodeGuppy**, **Adobe XD**, **MySQL Workbench**, **VS Code**  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsriober&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsriober&ntheme=tokyonight" alt="Streak stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsriober&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
