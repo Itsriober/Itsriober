@@ -1,76 +1,92 @@
-<!-- GitHub Profile README - Dark & Sleek Theme -->
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<h1 align="center">Hey there 👋, I'm Justine Harmon</h1>
-<p align="center">
-  🚀 Tech Educator • 💻 Fullstack Developer • 🎨 Graphic Designer <br>
-  <em>"We believe every child can learn how to code."</em>
-</p>
+###
 
----
+<p align="left">Justine over here. A full-stack dev<br>From Nairobi, 🇰🇪</p>
 
-### 🧑‍💻 About Me
+###
 
-- 💡 Passionate about **tech education**, especially for young learners.
-- 🧠 Skilled in **JavaScript**, **PHP**, **Laravel**, **HTML**, **CSS**.
-- 🧰 Experienced with **MySQL**, **Twilio**, **Git**, **cPanel**, **Cloud Storage (AWS, GDrive)**.
-- ✨ Pro Graphic Designer using **Canva** + **Adobe Creative Suite**.
-- 🎓 Coding Tutor and Graphic Designer at **SmartBrains Kenya** — organizing **bootcamps**, **coding contests**, and **tech days**.
-- 🏝️ Co-founder, Developer, and Lead Designer at **Harmo Stays** — a coastal hospitality platform offering **vacation rentals**, **tours**, **airport pickups**, and more.
-- 🌍 Collaborating remotely from Nairobi with our team in Diani to build seamless digital experiences for travelers.
+<h2 align="left">About me</h2>
 
----
+###
 
-### 🔧 Tech Stack
+<p align="left">💻 Building complete products — decisions, design, and code<br>🚀 2+ years shipping web platforms in edtech and hospitality<br>🎨 I also do graphic design and UI work on the side<br>🔧 Currently contributing to an edtech platform<br><br>Open to freelance collaborations</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+###
 
----
+<h2 align="left">My Tech Stack🚀</h2>
 
-### 🚀 Current Focus
+###
 
-- Enhancing customer experience through tech & design  
-- Teaching robotics and real-world coding with Arduino & JS  
-- Building responsive websites and dynamic platforms from scratch  
-- Creating engaging posters and UI content for tech-themed events  
-- Developing and maintaining Harmo Stays' digital platforms to provide seamless travel experiences
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+</div>
 
----
+###
 
-### 📫 Connect with Me
+<h2 align="left">Let's Connect🤙</h2>
 
-<p align="center">
-  <a href="jstnharmon02@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://harmostays.com"><img src="https://img.shields.io/badge/-harmostays.com-111?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>
+###
 
----
+<div align="center">
+  <a href="https://www.illustriober.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/justine-harmon-9ba734387/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/itsriober?_rdc=1&_rdr#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/itsriober/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:hello@illustriober.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🎨 Fun Facts
+###
 
-- 🧠 I teach kids how to code like pros  
-- ⚡ I'm always creating something — posters, platforms, or lesson plans  
-- 🎯 Favorite tools: **CodeGuppy**, **Adobe XD**, **MySQL Workbench**, **VS Code**  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Itsriober&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsriober&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
+###
 
-### 📊 GitHub Stats
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsriober&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsriober&ntheme=tokyonight" alt="Streak stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsriober&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsriober/Itsriober/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsriober/Itsriober/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Itsriober/Itsriober/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsriober/Itsriober/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsriober/Itsriober/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Itsriober/Itsriober/output/pacman-contribution-graph.svg">
+</picture>
+
+###
